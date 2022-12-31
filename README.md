@@ -1,2 +1,2 @@
 # MethodologicalNote
-The code and data for "Interpretation and analysis of the neural response to complex rhythms: a methodological note".
+The code and data for "Interpretation and Analysis of the Steady-State Neural Response to Complex Sequential Structures: a Methodological Note".
